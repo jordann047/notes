@@ -50,7 +50,7 @@
 ***** Government should allow people to trade freely, with a few but specific robust protections. Much of the actual work of making life better is the work of the individuals;
 ****** /"Every man is left perfectly free to pursue his own interest in his own way. The sovereign is completely discharged from a duty for which no human wisdom or knowledge could ever be sufficient; the duty of superintending the industry of private people./
 ** [[Joseph Schumpeter]] (1883 - 1950)
-** Uncovered how capitalism 'really works'.
+*** Uncovered how capitalism 'really works'.
 ** For decades, he was almost forgotten. But the digital revolution has showcased Schumpeter's ideas - particularly that of [[Creative Destruction]].
 ** Joseph Schumpeter's [[Economic Theory]]
 *** He demonstrated that the neoclassical idea of a perfectly competitive equilibrium economy is one that shows no growth, no development and is completely irrelevant in historical terms.
